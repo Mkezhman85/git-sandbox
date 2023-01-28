@@ -5,4 +5,5 @@ class App {
 }
 
 const app = new App()
+console.log('Test')
 app.init()
